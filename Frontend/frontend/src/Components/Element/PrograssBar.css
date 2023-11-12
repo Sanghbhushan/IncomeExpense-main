@@ -1,0 +1,20 @@
+.container{
+    display: flex; 
+    margin-left: 1rem;
+    margin-right: 1rem; 
+    height: 0.25rem; 
+    border-radius: 9999px; 
+    background: #2858b8df;
+    
+}
+
+.item{
+    transition-duration: 1000ms; 
+height: 0.25rem; 
+border-top-left-radius: 9999px;
+border-bottom-left-radius: 9999px; 
+
+
+
+
+}
